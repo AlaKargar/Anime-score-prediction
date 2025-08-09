@@ -50,6 +50,6 @@ Predicted Rating: 8.5
 <img src="Rf.png" alt="Chart" width="600">
 <figure>
 <img src="SVR.png" alt="Chart" width="600">
-  <figcaption>SVR ScatterPlot</figcaption>
+  <figcaption style="text-align: center;">SVR ScatterPlot</figcaption>
 </figure>
 
