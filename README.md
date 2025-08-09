@@ -46,8 +46,15 @@ Predicted Rating: 8.5
 <img src="4.png" alt="Chart" width="600">
 <img src="Data ScatterPlot.png" alt="Chart" width="600">
 <img src="Model Comparing.png" alt="Chart" width="600">
+<figure>
 <img src="KNN.png" alt="Chart" width="600">
+  <figcaption style="text-align: center;">KNeighborsRegressor ScatterPlot</figcaption>
+</figure>
+<figure>
 <img src="Rf.png" alt="Chart" width="600">
+  <figcaption style="text-align: center;">RandomForestRegressor ScatterPlot</figcaption>
+</figure>
+
 <figure>
 <img src="SVR.png" alt="Chart" width="600">
   <figcaption style="text-align: center;">SVR ScatterPlot</figcaption>
