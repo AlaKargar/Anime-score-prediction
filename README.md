@@ -48,6 +48,8 @@ Predicted Rating: 8.5
 <img src="Model Comparing.png" alt="Chart" width="600">
 <img src="KNN.png" alt="Chart" width="600">
 <img src="Rf.png" alt="Chart" width="600">
+<figure>
 <img src="SVR.png" alt="Chart" width="600">
-
+  <figcaption>SVR ScatterPlot</figcaption>
+</figure>
 
