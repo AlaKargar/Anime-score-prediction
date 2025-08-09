@@ -6,13 +6,11 @@
     <title>Anime Rating Prediction - README</title>
 </head>
 <body>
-    <h1>Anime Rating Prediction</h1>
-
+    <h1>Anime Rating Prediction</h1
     <h2>Overview</h2>
     <p>
         This project implements a machine learning model to predict anime ratings based on various features. The goal is to build a model that can accurately estimate the likely rating of an anime.
     </p>
-
     <h2>Features</h2>
     <ul>
         <li>Utilizes multiple machine learning models including KNN, RandomForest, and SVM</li>
@@ -20,7 +18,6 @@
         <li>Custom function for rating prediction</li>
         <li>Model evaluation using error metrics</li>
     </ul>
-
     <h2>Requirements</h2>
     <ul>
         <li>Python 3.x</li>
@@ -30,7 +27,6 @@
     </ul>
     <p>Install the required libraries with:</p>
     <pre><code>pip install pandas scikit-learn numpy</code></pre>
-
     <h2>How to Run</h2>
     <ol>
         <li>Prepare the anime dataset (or use the sample data provided).</li>
@@ -39,7 +35,6 @@
         </li>
         <li>The models will be trained, and rating predictions for sample inputs will be displayed.</li>
     </ol>
-
     <h2>Sample Output</h2>
     <pre><code>Input: Anime features
 Predicted Rating: 8.5
